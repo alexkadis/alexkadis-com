@@ -1,4 +1,11 @@
-## Relaunching the site!
+---
+title: Relaunching the site!
+author: Alex
+layout: post
+permalink: /blog/2015/05/relaunching-the-site/
+categories:
+  - MyWebsite
+---
 As of today, I've relaunched my site to be a bit prettier and much more functional on the backend, and much simpler on the front-end. All in all, it feels great to complete this mini-project.
 
 I changed up the fonts, added a new background image and made the site more mobile-friendly. I adopted [Yahoo's PureCSS](http://purecss.io/) for some of the functionality, and will continue to grab from their toolkit as I add new aspects to the site.
