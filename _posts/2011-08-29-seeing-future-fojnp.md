@@ -29,23 +29,23 @@ Here&#8217;s some things I took away from FOJNP:
  [1]: http://causil.com/
  [2]: http://causil.com/
  [3]: http://www.jdeal.com/new-york
- [4]: http://plus.google.com
- [5]: http://www.facebook.com
- [6]: http://twitter.com
- [7]: http://www.linkedin.com/
+ [4]: https://plus.google.com
+ [5]: https://www.facebook.com
+ [6]: https://twitter.com
+ [7]: https://www.linkedin.com/
  [8]: http://www.jewishideasdaily.com/
- [9]: http://farm7.static.flickr.com/6207/6078541530_94294a9548.jpg "Causil's David Weinberg at the New York FOJNP summit"
- [10]: http://www.flickr.com/photos/causil/6078541530/in/set-72157627388410121
- [11]: http://twitter.com/daroff
- [12]: http://twitter.com/stevenburg
+ [9]: https://farm7.static.flickr.com/6207/6078541530_94294a9548.jpg "Causil's David Weinberg at the New York FOJNP summit"
+ [10]: https://www.flickr.com/photos/causil/6078541530/in/set-72157627388410121
+ [11]: https://twitter.com/daroff
+ [12]: https://twitter.com/stevenburg
  [13]: http://www.ncsy.org/
  [14]: http://www.amazon.com/s/ref=nb_sb_ss_c_1_10?url=search-alias%3Dstripbooks&field-keywords=job+search&x=0&y=0&sprefix=job+search
  [15]: http://ventureneer.com/
- [16]: http://www.linkedin.com/in/geristengel
- [17]: http://www.linkedin.com/in/saulorbach
- [18]: http://www.linkedin.com/in/avizollman
- [19]: http://www.jfunders.org/
+ [16]: https://www.linkedin.com/in/geristengel
+ [17]: https://www.linkedin.com/in/saulorbach
+ [18]: https://www.linkedin.com/in/avizollman
+ [19]: https://www.jfunders.org/
  [20]: http://www.bigducknyc.com/
- [21]: http://twitter.com/farra
+ [21]: https://twitter.com/farra
  [22]: http://learn.linkedin.com/nonprofits/
  [23]: http://learn.linkedin.com/job-seekers/

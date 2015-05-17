@@ -34,12 +34,12 @@ Many Israelis choose to spend their holidays just having fun. Not praying or goi
 
 We stayed at the very Israeli-family oriented [Rimonim ((Rimonim: רמונימ, pomegranates)) Hotel][10]. Most of the guests were Israelis, playing tourist in their own country. And the hotel was certainly made for them. I can honestly say, this was the first time I&#8217;ve woken up to a DJ&#8217;s techno music at a hotel pool. It was certainly gave us a unique look into the lives of what happens everyday in Israel and how many people choose to celebrate special occasions here.
 
- [1]: http://alexkadis.com/blog/2010/09/new-year-new-family/
+ [1]: https://alexkadis.com/blog/2010/09/new-year-new-family/
  [2]: http://wikitravel.org/en/Sea_to_Sea_(Yam_el_Yam)
- [3]: http://www.flickr.com/photos/kadis/sets/72157625075781612/
- [4]: http://farm5.static.flickr.com/4153/5043099414_0393ceab0d.jpg
- [5]: http://www.flickr.com/photos/kadis/5043099414/ "DSC_0749.jpg by Alex Kadis, on Flickr"
- [6]: http://www.flickr.com/photos/kadis/5043105038/ "The City of Ashkelon by Alex Kadis, on Flickr"
- [7]: http://www.flickr.com/photos/kadis/5043101696/ "Merkaz Klita Beit Canada by Alex Kadis, on Flickr"
- [8]: http://en.wikipedia.org/wiki/Share_taxi#Sherut_.28Israel.29
+ [3]: https://www.flickr.com/photos/kadis/sets/72157625075781612/
+ [4]: https://farm5.static.flickr.com/4153/5043099414_0393ceab0d.jpg
+ [5]: https://www.flickr.com/photos/kadis/5043099414/ "DSC_0749.jpg by Alex Kadis, on Flickr"
+ [6]: https://www.flickr.com/photos/kadis/5043105038/ "The City of Ashkelon by Alex Kadis, on Flickr"
+ [7]: https://www.flickr.com/photos/kadis/5043101696/ "Merkaz Klita Beit Canada by Alex Kadis, on Flickr"
+ [8]: https://en.wikipedia.org/wiki/Share_taxi#Sherut_.28Israel.29
  [10]: http://english.rimonim.com/rimonim-eilat

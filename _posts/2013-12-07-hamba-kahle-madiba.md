@@ -6,7 +6,7 @@ permalink: /blog/2013/12/hamba-kahle-madiba/
 categories:
   - Reflections
 ---
-<img src="http://alexkadis.com/inc/img/2013/12/mandela.jpg" alt="Nelson Mandela" width="450" height="300" class="aligncenter size-full wp-image-273" />
+<img src="https://alexkadis.com/inc/img/2013/12/mandela.jpg" alt="Nelson Mandela" width="450" height="300" class="aligncenter size-full wp-image-273" />
 
 My ability to write publicly, for anyone to read, is a freedom I hope never to take for granted.
 

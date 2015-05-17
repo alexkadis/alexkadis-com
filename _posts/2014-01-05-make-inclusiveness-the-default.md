@@ -10,7 +10,7 @@ tags:
   - inclusiveness
   - Technology
 ---
-<img src="http://alexkadis.com/inc/img/2014/01/morocco-film-camera.jpg" alt="Morocco Film Camera" width="450" height="299" class="aligncenter size-full wp-image-281" />
+<img src="https://alexkadis.com/inc/img/2014/01/morocco-film-camera.jpg" alt="Morocco Film Camera" width="450" height="299" class="aligncenter size-full wp-image-281" />
 
 [This post][1] on PandoDaily has the potential to open up a discussion of power and privilege within the Silicon Valley tech-elite. In it, [Jason Calacanis][2] expresses his *deep* anger for the way that three tech leaders have treated their local homeless population, and the utter callousness and displeasure they express towards those they deem to be in the &#8220;[lower part of society][3]&#8221;. 
 

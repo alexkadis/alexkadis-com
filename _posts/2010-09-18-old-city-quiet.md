@@ -26,4 +26,4 @@ I hope that if you&#8217;re doing it, that you have a good and meaningful fast.
 
 You can see more photos [on my Flickr][3].
 
- [3]: http://www.flickr.com/photos/kadis/sets/72157624991855864/
+ [3]: https://www.flickr.com/photos/kadis/sets/72157624991855864/

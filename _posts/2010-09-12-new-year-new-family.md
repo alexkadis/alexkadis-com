@@ -31,5 +31,5 @@ Other than a lot of eating and meeting some great new family members. We didn&#8
 
 This was actually right before going to services, we apparently had to pre-game.
 
- [1]: http://en.wikipedia.org/wiki/Beit_She'an
+ [1]: https://en.wikipedia.org/wiki/Beit_She'an
  [2]: http://www.jafi.org.il/JewishAgency/English/Israel/Partnerships/Regions/Beitshean

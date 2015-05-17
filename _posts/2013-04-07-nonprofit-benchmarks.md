@@ -8,7 +8,7 @@ categories:
   - Analyzing The Analysis
 ---
 
-  <img src="http://alexkadis.com/inc/img/2013/04/Analyzing.png" alt="2013 eNonprofit Benchmarks Study: Analyzing the Analysis" class="aligncenter size-full wp-image-252" />
+  <img src="https://alexkadis.com/inc/img/2013/04/Analyzing.png" alt="2013 eNonprofit Benchmarks Study: Analyzing the Analysis" class="aligncenter size-full wp-image-252" />
 
 
 I thought it would be fun to analyze the analysis done by two fantastic organizations ([M+R Strategic Services][1] and [NTEN][2]) about the state of nonprofit communications. There&#8217;s a whole lot of [#DataNerd][3] stuff in here, so let&#8217;s dig deep and take a look!
@@ -124,16 +124,16 @@ Thanks also to [Beth Kantor][17] for bringing the [#datanerd(s) hashtags][18] to
  [5]: http://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn't_read
  [6]: https://twitter.com/search?q=%232013Bench
  [7]: http://labs.mrss.com/benchmarks-supplement-all-the-stats-that-didnt-fit-in-print/
- [8]: http://alexkadis.com/inc/img/2013/04/workaround.png "I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask."
+ [8]: https://alexkadis.com/inc/img/2013/04/workaround.png "I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask."
  [9]: http://xkcd.com/763/ "I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask."
  [10]: http://www.insidefacebook.com/2011/12/27/edgerank-and-graph-rank-defined/
- [11]: http://en.wikipedia.org/wiki/File:Towelday-Innsbruck.jpg
+ [11]: https://en.wikipedia.org/wiki/File:Towelday-Innsbruck.jpg
  [12]: http://www.imdb.com/title/tt0104348/
  [13]: http://theoatmeal.com/comics/pelvic_thrusting_cats
  [14]: http://theoatmeal.com/comics/pelvic_thrusting_cats "The Oatmeal Comic"
  [15]: http://mashable.com/how-to/
  [17]: https://twitter.com/kanter
  [18]: http://www.bethkanter.org/datanerds-march2013/
- [19]: http://alexkadis.com/inc/img/2013/04/dont-panic-towel.jpg "Don't Panic"
- [20]: http://alexkadis.com/inc/img/2013/04/abc-alecbaldwin.jpg "Always Be Closing"
- [21]: http://alexkadis.com/inc/img/2013/04/pelvic_thrusting_cats.gif "Pelvic Thrusting Cats"
+ [19]: https://alexkadis.com/inc/img/2013/04/dont-panic-towel.jpg "Don't Panic"
+ [20]: https://alexkadis.com/inc/img/2013/04/abc-alecbaldwin.jpg "Always Be Closing"
+ [21]: https://alexkadis.com/inc/img/2013/04/pelvic_thrusting_cats.gif "Pelvic Thrusting Cats"

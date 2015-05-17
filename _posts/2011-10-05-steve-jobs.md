@@ -22,4 +22,4 @@ Steve Jobs revolutionized industries and changed the way we think about technolo
 
 Here&#8217;s to the crazy ones.
 
-<img src="http://alexkadis.com/inc/img/2011/10/t_hero.jpg" alt="Steve Jobs" width="480" />
+<img src="https://alexkadis.com/inc/img/2011/10/t_hero.jpg" alt="Steve Jobs" width="480" />

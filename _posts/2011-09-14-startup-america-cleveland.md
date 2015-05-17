@@ -26,7 +26,7 @@ Today at [Shaker LaunchHouse][3], Alex Gold spoke to a packed house about Startu
 <!--more-->
 
 <div id="attachment_211" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://alexkadis.com/inc/img/2011/09/photo.jpg"><img src="http://alexkadis.com/inc/img/2011/09/photo-300x225.jpg" alt="Alex Gold, Special Projects for Startup America Partnership" title="Alex Gold, Special Projects for Startup America Partnership" width="300" height="225" class="size-medium wp-image-211" /></a>
+  <a href="https://alexkadis.com/inc/img/2011/09/photo.jpg"><img src="https://alexkadis.com/inc/img/2011/09/photo-300x225.jpg" alt="Alex Gold, Special Projects for Startup America Partnership" title="Alex Gold, Special Projects for Startup America Partnership" width="300" height="225" class="size-medium wp-image-211" /></a>
   
   <p class="wp-caption-text">
     Alex Gold, Special Projects for Startup America Partnership presents to LaunchHouse members

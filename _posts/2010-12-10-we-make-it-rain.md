@@ -33,4 +33,4 @@ For much of the time we were in Tzfat after that, it poured. More than I thought
 
 It&#8217;s always been something of an oddity for me: to really feel it in your bones that you&#8217;ve prayed and in some mysterious fashion, God has answered your prayers. I really don&#8217;t think I have much in the way of religious beliefs, but when our group created shirts commemorating our time with Livnot, we used the slogan &#8220;We Make It Rain&#8221;. I&#8217;d like to think that in some small way, it&#8217;s true.
 
- [1]: http://en.wikipedia.org/wiki/The_700_Club
+ [1]: https://en.wikipedia.org/wiki/The_700_Club

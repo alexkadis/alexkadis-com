@@ -1,0 +1,24 @@
+# block visitors referred from semalt.com
+# http://logorrhoea.net/2014/01/how-to-block-semalt-com-referrer-traffic-using-htaccess/
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} semalt\.com [NC]
+RewriteCond %{HTTP_REFERER} .*\.semalt\.com [NC]
+RewriteRule .* - [F]
+
+
+RewriteRule resume[\.\(\)\&\[\]](.*)$ resume [L]
+
+ErrorDocument 404 /404.html
+
+# Force HTTPS
+# RewriteCond %{HTTPS} off
+# RewriteCond %{HTTP_HOST} ^alexkadis.com$
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI}
+
+
+RewriteCond %{HTTP:CF-Visitor} '"scheme":"http"'
+RewriteCond %{HTTP_HOST} ^alexkadis.com$
+RewriteRule ^(.*)$ https://alexkadis.com/$1 [L]
+
+# RewriteCond %{HTTP:CF-Visitor} !'"scheme":"http"'
+# RewriteRule ^(.*)$ https://alexkadis.com/$1 [L]

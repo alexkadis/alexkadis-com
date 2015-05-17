@@ -28,7 +28,7 @@ All in all, I love our new home.
 
 You can find more photos on [my Flickr account][9].
 
- [1]: http://en.wikipedia.org/wiki/Ulpan
- [2]: http://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa)
+ [1]: https://en.wikipedia.org/wiki/Ulpan
+ [2]: https://en.wikipedia.org/wiki/Waka_Waka_(This_Time_for_Africa)
 
- [9]: http://www.flickr.com/photos/kadis/sets/72157624764249829/
+ [9]: https://www.flickr.com/photos/kadis/sets/72157624764249829/

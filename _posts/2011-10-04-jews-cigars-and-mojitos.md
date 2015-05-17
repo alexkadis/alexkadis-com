@@ -120,23 +120,23 @@ I&#8217;m sure of it.
 
 <a href="https://www.flickr.com/photos/kadis/6209565181" title="Our first rum and cigars in Cuba by Alex K, on Flickr"><img src="https://c3.staticflickr.com/7/6164/6209565181_2bcca98ba3_b.jpg" width="860px" height="645px" alt="Our first rum and cigars in Cuba"></a>
 
-[1]: http://www.flickr.com/photos/kadis/6210133010/ "El Patronato Synagogue by Alex Kadis, on Flickr"
-[2]: http://en.wikipedia.org/wiki/American_Jewish_Joint_Distribution_Committee
-[3]: http://www.flickr.com/photos/kadis/6209569577/ "Art purchased at a synagogue in Havana Cuba by Alex Kadis, on Flickr"
-[4]: http://www.flickr.com/photos/kadis/6210107364/ "Visiting Jewish homes in Havana, Cuba by Alex Kadis, on Flickr"
-[5]: http://www.flickr.com/photos/kadis/6210087514/ "A man working on a car streetside in Havana, Cuba by Alex Kadis, on Flickr"
-[6]: http://alexkadis.com/u/ethiopia
-[7]: http://twitter.com/jkadis
-[8]: http://www.flickr.com/photos/kadis/6209684451/ "My brother Justin and I enjoyed the streets of Havana, Cuba by Alex Kadis, on Flickr"
-[9]: http://www.flickr.com/photos/kadis/6210144500/ "My brother Justin with a Cuban wearing a Cleveland Indians shirt... apparently not an Indians fan though. by Alex Kadis, on Flickr"
-[10]: http://en.wikipedia.org/wiki/Cuban_medical_internationalism
+[1]: https://www.flickr.com/photos/kadis/6210133010/ "El Patronato Synagogue by Alex Kadis, on Flickr"
+[2]: https://en.wikipedia.org/wiki/American_Jewish_Joint_Distribution_Committee
+[3]: https://www.flickr.com/photos/kadis/6209569577/ "Art purchased at a synagogue in Havana Cuba by Alex Kadis, on Flickr"
+[4]: https://www.flickr.com/photos/kadis/6210107364/ "Visiting Jewish homes in Havana, Cuba by Alex Kadis, on Flickr"
+[5]: https://www.flickr.com/photos/kadis/6210087514/ "A man working on a car streetside in Havana, Cuba by Alex Kadis, on Flickr"
+[6]: https://alexkadis.com/u/ethiopia
+[7]: https://twitter.com/jkadis
+[8]: https://www.flickr.com/photos/kadis/6209684451/ "My brother Justin and I enjoyed the streets of Havana, Cuba by Alex Kadis, on Flickr"
+[9]: https://www.flickr.com/photos/kadis/6210144500/ "My brother Justin with a Cuban wearing a Cleveland Indians shirt... apparently not an Indians fan though. by Alex Kadis, on Flickr"
+[10]: https://en.wikipedia.org/wiki/Cuban_medical_internationalism
 [11]: http://www.tripadvisor.com/Restaurant_Review-g147271-d1986393-Reviews-Restaurant_La_Casa-Havana_Cuba.html
-[12]: http://www.flickr.com/photos/kadis/6209686085/ "Brazen Grandma at paladar La Casa, Havana, Cuba by Alex Kadis, on Flickr"
-[13]: http://www.flickr.com/photos/kadis/6210087986/ "Beautiful Blue Ford, Havana, Cuba by Alex Kadis, on Flickr"
-[14]: http://www.flickr.com/photos/kadis/6210116502/ "Meeting Adela Dworin, President of the Cuban Jewish Community by Alex Kadis, on Flickr"
-[15]: http://www.flickr.com/photos/kadis/6210116876/ ""Juban" Josh Kaller by Alex Kadis, on Flickr"
-[16]: http://en.wikipedia.org/wiki/Fulgencio_Batista
-[17]: http://www.flickr.com/photos/kadis/6210188614/ "Havana's Holocaust memorial by Alex Kadis, on Flickr"
-[18]: http://www.flickr.com/photos/kadis/6210191160/ "Geoff Frank's grandparents' home by Alex Kadis, on Flickr"
-[19]: http://www.flickr.com/photos/kadis/6209584211/ "Visiting homes in Havana, Cuba by Alex Kadis, on Flickr"
-[20]: http://www.flickr.com/photos/kadis/6209565181/ "Our first rum and cigars in Cuba by Alex Kadis, on Flickr"
+[12]: https://www.flickr.com/photos/kadis/6209686085/ "Brazen Grandma at paladar La Casa, Havana, Cuba by Alex Kadis, on Flickr"
+[13]: https://www.flickr.com/photos/kadis/6210087986/ "Beautiful Blue Ford, Havana, Cuba by Alex Kadis, on Flickr"
+[14]: https://www.flickr.com/photos/kadis/6210116502/ "Meeting Adela Dworin, President of the Cuban Jewish Community by Alex Kadis, on Flickr"
+[15]: https://www.flickr.com/photos/kadis/6210116876/ ""Juban" Josh Kaller by Alex Kadis, on Flickr"
+[16]: https://en.wikipedia.org/wiki/Fulgencio_Batista
+[17]: https://www.flickr.com/photos/kadis/6210188614/ "Havana's Holocaust memorial by Alex Kadis, on Flickr"
+[18]: https://www.flickr.com/photos/kadis/6210191160/ "Geoff Frank's grandparents' home by Alex Kadis, on Flickr"
+[19]: https://www.flickr.com/photos/kadis/6209584211/ "Visiting homes in Havana, Cuba by Alex Kadis, on Flickr"
+[20]: https://www.flickr.com/photos/kadis/6209565181/ "Our first rum and cigars in Cuba by Alex Kadis, on Flickr"

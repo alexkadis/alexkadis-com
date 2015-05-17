@@ -32,4 +32,4 @@ Maybe someone out there on the [lazy web][5] will have ideas of how we can impro
  [2]: http://presentense.org/institute
  [3]: http://presentense.org/cep
  [4]: http://presentense.org/blog
- [5]: http://www.lazyweb.org/
+ [5]: https://en.wiktionary.org/wiki/lazyweb
