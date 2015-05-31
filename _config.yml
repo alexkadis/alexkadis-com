@@ -9,9 +9,10 @@ url: "https://alexkadis.com" # the base hostname & protocol for your site
 
 # baseurl: "/ak2015/_site/" # the subpath of your site, e.g. /blog/
 # url: "http://localhost:8888/ak2015/_site/"
+
 twitter_username: alexkadis
-# github_username:  alexkadis
-linkedin_username:  akadis
+github_username: alexkadis
+linkedin_username: akadis
 
 # Build settings
 markdown: kramdown

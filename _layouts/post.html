@@ -5,7 +5,18 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}<!-- 
+{% capture words %}
+	{{ content | number_of_words | minus: 180 }}
+{% endcapture %}
+{% unless words contains "-" %}
+	{% assign minutes = words | plus: 180 | divided_by: 180 %}
+	{% if minutes > 1 %}
+		{{minutes | append:  " minutes to read" }}
+	{% else %}
+		{{minutes | append:  " minute to read" }}
+	{% endif %}
+{% endunless %} --></p>
   </header>
 
   <article class="post-content">
