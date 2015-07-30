@@ -5,7 +5,7 @@ permalink: /resume/
 nav_title: Resume
 ---
 
-Software project manager with significant accomplishments in technology training, multi-stakeholder budgeting, database administration, coordination and implementation of technology projects, developer/vendor management, and effective multi-channel communication.
+IT project manager with significant accomplishments in technology training, multi-stakeholder budgeting, database administration, coordination and implementation of technology projects, developer/vendor management, and effective multi-channel communication.
 
 Open to opportunities in Denver, Boulder, and Cleveland.
 

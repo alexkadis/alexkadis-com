@@ -1,10 +1,21 @@
-# block visitors referred from semalt.com
+# block visitors referred from semalt.com and others
 # http://logorrhoea.net/2014/01/how-to-block-semalt-com-referrer-traffic-using-htaccess/
 RewriteEngine on
 RewriteCond %{HTTP_REFERER} semalt\.com [NC]
 RewriteCond %{HTTP_REFERER} .*\.semalt\.com [NC]
+RewriteCond %{HTTP_REFERER} free-social-buttons\.com [NC]
+RewriteCond %{HTTP_REFERER} .*\.free-social-buttons\.com [NC]
+RewriteCond %{HTTP_REFERER} event-tracking\.com [NC]
+RewriteCond %{HTTP_REFERER} .*\.event-tracking\.com [NC]
+RewriteCond %{HTTP_REFERER} free-social-buttons\.com [NC]
+RewriteCond %{HTTP_REFERER} .*\.free-social-buttons\.com [NC]
+RewriteCond %{HTTP_REFERER} guardlink\.org [NC]
+RewriteCond %{HTTP_REFERER} .*\.guardlink\.org [NC]
+RewriteCond %{HTTP_REFERER} best-seo-offer\.com [NC]
+RewriteCond %{HTTP_REFERER} .*\.best-seo-offer\.com [NC]
+RewriteCond %{HTTP_REFERER} buttons-for-your-website\.com [NC]
+RewriteCond %{HTTP_REFERER} .*\.buttons-for-your-website\.com [NC]
 RewriteRule .* - [F]
-
 
 RewriteRule resume[\.\(\)\&\[\]](.*)$ resume [L]
 
