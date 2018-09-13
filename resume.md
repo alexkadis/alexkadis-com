@@ -7,7 +7,7 @@ nav_title: Resume
 
 <img style="float:right;" src="./software-logos.png" width="40%" height="auto" title="Software I know: Salesforce, G Suite, Access" alt="Software I know: Salesforce, G Suite, Access" />
 
-Software project manager with significant accomplishments in database administration, user training, multi-stakeholder budgeting, coordination and implementation of technology projects, developer/vendor management, and effective multi-channel communication.
+Software developer and project manager with significant accomplishments in database administration, user training, multi-stakeholder budgeting, coordination and implementation of technology projects, developer/vendor management, and effective multi-channel communication.
 
 ### Leadership and Work Experience
 
