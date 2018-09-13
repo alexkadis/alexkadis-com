@@ -8,4 +8,4 @@ categories:
 tags:
   - Coding
 ---
-On the 17th I start Tech Elevator. So excited!
+On the 17<sup>th</sup> I start Tech Elevator. So excited!
