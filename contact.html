@@ -1,0 +1,21 @@
+<form id="contact_form" action="//mailthis.to/alex" method="post">
+	<label class="name">Your name: 
+		<input type="text" name="name" />
+	</label>
+	<label class="email" for="email">Your email:
+		<input type="email" name="email" placeholder="you@example.com" />
+	</label>
+	<br />
+
+	<label class="message" for="message">Message:<br />
+		<textarea cols="40" rows="8" name="message"></textarea>
+	</label>
+	
+	<input class="submit" type="submit" value="Contact Us" />
+
+	<input type="hidden" name="_after" value="https://alexkadis.com" />
+	<input type="text" name="_honey" value="" style="display:none" />
+	<input type="hidden" name="_valid[name]" value="name" />
+	<input type="hidden" name="_valid[email]" value="required|valid_email" />
+    <input type="hidden" name="_valid[message]" value="required" />
+</form>
