@@ -18,7 +18,7 @@ I've been trying to figure out good side projects. Here's what I have in mind:
 4. I added an alias in my `.bashrc` to pull from GitHub and build with Jekyll:
 
 ```bash
-alias gitbuild="git pull origin master && jekyll build"
+alias gitjekyll="git pull origin master && jekyll build"
 ```
 
 ## Learn algorithms
