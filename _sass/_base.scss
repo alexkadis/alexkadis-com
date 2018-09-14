@@ -75,9 +75,10 @@ li {
 		 margin-bottom: 0;
 	}
 }
-ul.post-list li {
+ul.post-list li,
+.rss-subscribe {
 	border-top: 1px solid $brand-color-light;
-		padding: 0.45em 0 0 0;
+	padding: 0.45em 0 0 0;
 }
 
 
