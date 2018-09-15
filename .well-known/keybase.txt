@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/kadis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexkadis.com
+  * I am kadis (https://keybase.io/kadis) on keybase.
+  * I have a public key with fingerprint B337 C182 CD6E 1BE6 0556  4B56 3382 4BF8 E72A F174
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012ac6d2ec6dca7db4290da1fe1a53efea5a50be7b8dfad3546a061a05d3b7b36a0a",
+      "fingerprint": "b337c182cd6e1be605564b5633824bf8e72af174",
+      "host": "keybase.io",
+      "key_id": "33824bf8e72af174",
+      "kid": "01012ac6d2ec6dca7db4290da1fe1a53efea5a50be7b8dfad3546a061a05d3b7b36a0a",
+      "uid": "1f59c48b08db3d2b0beff39d3fb67619",
+      "username": "kadis"
+    },
+    "merkle_root": {
+      "ctime": 1537020221,
+      "hash_meta": "c9f736a6e841c576baf01f9592d1b1995d1000f4435bedd2b763948ecdd643c0",
+      "seqno": 3614201
+    },
+    "revoke": {
+      "sig_ids": [
+        "23475f7ae7ae8e09004f700e9fe044af23ae5602b7075b160903881126b5847f0f"
+      ]
+    },
+    "service": {
+      "hostname": "alexkadis.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1537020406,
+  "expire_in": 157680000,
+  "prev": "900a7e7c1a41c9da609a22f641900ec7bf06f42d0adf37e3cd84524de1d3b69f",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMK6AnicrVNdaBxVGN2k/tQtabqrSFUwduxqsLG9/zOztGofJIpikUZqSev23rnf
+TabZ7Kwzk21LjPbB4IMlBm1RkRhISx+EqqXEBImYhrwEbbRqoYg/UP+erIJgCIp6
+J1RE8FEYZrjzne+c851773zLqly+aWn/syeinXtebvpgLh3IdY8Vfh10VKQPOeVB
+pw9WPlDVkKSVvlA7ZQdhhIkMhCZgX4F0tWLER1piA1hyCgYklxwpcJWnjdSUMyGR
+wBJxTZWrqF1Jp8MxYa0H4noc1lJLqyh1A+yRQAvACgTiXDDFBaUeYcp44BJpsMts
+Y2+UZB3WnJIJbA4j+88uKiv2/gP/P/seWKHDhvsB8xTytKKaKNtnDPU1NUq4AvsZ
+MIG4Jvsh8yp1mDhDHU4/xH1VqMRRlGbJBmmY1TGnLiKIEGynk0lvpR9SadsC37hW
+VoDHcMBdoaRB2PjcJxor7PtcY4SQYYxyBdq6cAX1mQeB1oLRAFkTCTxZi5wyFZgR
+hK2DGBpRH2TiSdhjM0uccrdDKHO5cSXYxwPkI8SMixD4BhBj0hAqgQtkBZDLFRYW
+QT0PYyIU95hrkHH2DmVicSMMVsizTboyvKzCwZUANgdRv7VUj6M0CqKqLfWmaT0p
+Z8Gkh+oZ9gCoyhWWigpr2p4R29GAOAmjmg3KIv+dGUOiw4GD9TCGSpghbEyeDQVl
+OtCwlHYY6YI9XNKG6GtpzUtCjGDYViBwlUHCMKKR1Ia6QAPtMU6YBmy3XfjmnxAx
+sT5lj+W00dVkOhCDMzQ3u+eqXFM+d83VzdnlyeWvW/f3lWpduzp3eHzHwo1Tas1X
+D2z8ecOWz0fPqdGnXriz696nn5+6766NTZeOnr61vbTqcdS8ZcNPM2duKu7849Ij
++ZOV6aPPnWhuDA7f/tC1597b9O0X9WPTC9PfdY7tPp/b3RbELVOrz+j4pdsar7Yu
+TywW3jj76cNzP96zvWvf3b+8fnFryw7Sfv+p9RfnW9vfH9u17Zu3312aLRR/GJ4b
+Xig+um80d0db/vBHo+sW93695kG9/ExxU/k8vnnk+NrCZXXkwG+nbvA6t79ZeXHk
++/z8a/zPtpmzR946Plnc1rVYfWXWLHXS6y83ySculE4XPvtyorQ8OTIzObJr6y0T
++0/+Pt7NZ965UCo9Nn7sk4mP19PJng//ArMDeqY=
+=c2qw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kadis
+
+==================================================================
