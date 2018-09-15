@@ -9,6 +9,7 @@ url: "https://alexkadis.com" # the base hostname & protocol for your site
 destination: "../alexkadis-com"
 keep_files: 
   - "_misc"
+  - ".well-known"
 
 plugins:
   - jekyll-paginate
