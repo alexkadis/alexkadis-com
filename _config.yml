@@ -10,6 +10,7 @@ destination: "../alexkadis-com"
 keep_files: 
   - "_misc"
   - ".well-known"
+  - "maze"
 
 plugins:
   - jekyll-paginate
