@@ -218,3 +218,21 @@ pre {
 img.box {
 	width: 100px;
 }
+
+
+
+/**
+ * resume
+ */
+dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-gap: 1em;
+}
+dt {
+  grid-column: 1;
+  font-weight: bold;
+}
+dd {
+   grid-column: 2;
+}

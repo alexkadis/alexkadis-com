@@ -1,9 +1,9 @@
 ---
 layout: portfolio
-permalink: /portfolio/
-title:  Alex&#8217;s Portfolio
-categories: portfolio
-nav_title: Portfolio
+# permalink: /portfolio/
+# title:  Alex&#8217;s Portfolio
+# categories: portfolio
+# nav_title: Portfolio
 ---
 
 ## Mentoring, Teaching, and Training

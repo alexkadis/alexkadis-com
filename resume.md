@@ -10,7 +10,7 @@ Software Developer and Project Manager with 7 years of experience in database cr
 Seeking a software developer role with opportunities to learn from and grow with peers and mentors.
 
 
-## Technical Skills
+### Technical Skills
 
 OOP
 : C#, .NET, MVC, PHP
@@ -28,7 +28,7 @@ Miscellaneous
 : Git, RegEx, WordPress, Visual Studio 2017, Apache, NGINX, Pivot Tables, pair programming
 
 
-## Technical Projects
+### Technical Projects
 
 [Multi-Level Maze](https://alexkadis.com/maze)
 : TypeScript, jQuery, Mocha, Chai: generates a random maze that a user can explore
@@ -44,21 +44,21 @@ Miscellaneous
 
 
 
-## Education
+### Education
 
-### [Tech Elevator](https://www.techelevator.com/) -- .Net Web Application Development Bootcamp
+#### [Tech Elevator](https://www.techelevator.com/) -- .Net Web Application Development Bootcamp
 
 Attending a 14-week program C#/.Net coding boot camp that focuses on OOP, pair programming, and Unit Testing.
 
 *September 2018 to December 2018 in  Cleveland, OH*
 
-### Lehigh University -- Bachelor of Arts, Political Science
+#### Lehigh University -- Bachelor of Arts, Political Science
 
 *Major in Political Science, Minor in Mass Communications*
 
 *May 2010 in  Bethlehem, PA*
 
-### Semester Abroad -- School for International Training
+#### Semester Abroad -- School for International Training
 
 *Reconciliation and Development Program (inequality, discrimination, and political violence)*
 
@@ -66,10 +66,10 @@ Attending a 14-week program C#/.Net coding boot camp that focuses on OOP, pair p
 
 
 
-## Leadership and Work Experience
+### Leadership and Work Experience
 
 
-### Database Systems Analyst
+#### Database Systems Analyst
 
 *Jewish Education Center of Cleveland (JECC), directs & provides support for local Jewish education in Cleveland, OH*
 
@@ -79,7 +79,7 @@ Attending a 14-week program C#/.Net coding boot camp that focuses on OOP, pair p
 - Conducted internal client assessments to determine their critical business needs and underlying challenges, resulting in detailed system requests, work plans, and timelines.
 - Designed new data-management techniques for grants management, program evaluation, school enrollment statistics, and community outreach that are sustainable for the future.
 
-### Technology Manager
+#### Technology Manager
 
 *Repair the World, making volunteerism a defining element of American Jewish life*
 
@@ -90,7 +90,7 @@ Attending a 14-week program C#/.Net coding boot camp that focuses on OOP, pair p
 
 
 
-### Campus Systems Director and Project Manager
+#### Campus Systems Director and Project Manager
 
 *AIPAC, American Israel Public Affairs Committee, America&apos;s Pro-Israel Lobby*
 
@@ -100,7 +100,7 @@ Attending a 14-week program C#/.Net coding boot camp that focuses on OOP, pair p
 - Managed and trained 15 interns during academic year, coordinating with departmental and regional supervisors.
 
 
-### Mentor, Teacher, Tutor, Intern
+#### Mentor, Teacher, Tutor, Intern
 
 *OTZMA, ten-month volunteer/leadership program in Israel*
 
