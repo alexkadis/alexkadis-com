@@ -13,6 +13,9 @@ keep_files:
   - ".well-known"
   - "maze"
 
+sass:
+    sass_dir: ./_sass
+
 plugins:
   - jekyll-paginate
 paginate: 5
