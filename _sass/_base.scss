@@ -239,6 +239,6 @@ dd {
    padding: .5em;
 }
 
-dt:nth-of-type(even) { background-color: lighten($brand-color, 10%); }
-dd:nth-of-type(even) { background-color: lighten($brand-color, 10%); }
+dt:nth-of-type(even) { background-color: #d0dce8; } //lighten($brand-color, 10%); }
+dd:nth-of-type(even) { background-color: #d0dce8; } //lighten($brand-color, 10%); }
 
