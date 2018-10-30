@@ -227,12 +227,18 @@ img.box {
 dl {
   display: grid;
   grid-template-columns: auto 1fr;
-  grid-gap: 1em;
+  grid-gap: 0;
 }
 dt {
   grid-column: 1;
   font-weight: bold;
+  padding: .5em;
 }
 dd {
    grid-column: 2;
+   padding: .5em;
 }
+
+dt:nth-of-type(even) { background-color: lighten($brand-color, 10%); }
+dd:nth-of-type(even) { background-color: lighten($brand-color, 10%); }
+
